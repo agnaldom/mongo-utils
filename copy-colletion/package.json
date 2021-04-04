@@ -1,0 +1,14 @@
+{
+  "name": "copy-colletion",
+  "version": "1.0.0",
+  "description": "copy colletion on mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "Agnaldo Marinho <agnaldomarinho7@gmail.com>",
+  "license": "ISC"
+}
